@@ -7,6 +7,7 @@
 You can find the recipe [here][1].  
 
 [1]:http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/recipes/frosted-sandwich-loaf.md
+[Recipe here](/recipes/frosted-sandwich-loaf.md)
 
 
 ### Lime gelatin salad
