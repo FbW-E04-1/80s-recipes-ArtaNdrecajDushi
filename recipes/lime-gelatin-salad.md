@@ -38,6 +38,4 @@ This is a great recipe my mom got from my aunt. She has made it every year for T
  #### Nutrition Facts  
  **Per Serving:** 412 calories; protein 5.4g; carbohydrates 26.7g; fat 33.3g; cholesterol 89.9mg; sodium 161.3mg.
 
- Go back to the main page by clicking [here][1].
-
- [1]:(../index.md)
+ [Go back to the main page](../index.md)

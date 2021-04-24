@@ -36,6 +36,4 @@
 6. To unmold: Run small spatula around edge of mold; invert onto serving plate. Place hot dishcloth over mold; shake gently to release. Repeat, if necessary. Lift off mold. refrigerate until ready to serve.   
 Makes 8 servings.
 
- Go back to the main page by clicking [here][1].
-
- [1]:(../index.md)
+ [Go back to the main page](../index.md)

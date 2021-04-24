@@ -64,6 +64,4 @@ Use a food processor or meat grinder to process the ham and bologna.
  #### Nutrition Facts  
  **Per Serving:** 352 calories; protein 11.8g; carbohydrates 15.1g; fat 27.3g; cholesterol 73.8mg; sodium 653.7mg.
 
- Go back to the main page by clicking [here][1].
-
- *[1]:(../index.md)*
+ [Go back to the main page](../index.md)
