@@ -13,7 +13,7 @@ You can find the recipe [here][1].
 
 ![Gelatin salad](images/lime-gelatin-salad.jpg)
 
-You can find the recipe [here] [2].
+You can find the recipe [here][2].
 
 [2]:http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/recipes/lime-gelatin-salad.md
 
@@ -22,7 +22,7 @@ You can find the recipe [here] [2].
 
 ![perfection salad](images/perfection-salad.jpg)
 
-You can fine the recipe [here] [3].
+You can fine the recipe [here][3].
 
 [3]:http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/recipes/perfection-salad.md
 
