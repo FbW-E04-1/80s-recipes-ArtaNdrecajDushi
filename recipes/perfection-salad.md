@@ -38,4 +38,4 @@ Makes 8 servings.
 
  Go back to the main page by clicking [here][1].
 
- [1]: http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/index.md
+ [1]:(../index.md)

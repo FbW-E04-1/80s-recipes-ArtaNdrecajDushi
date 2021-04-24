@@ -40,4 +40,4 @@ This is a great recipe my mom got from my aunt. She has made it every year for T
 
  Go back to the main page by clicking [here][1].
 
- [1]: http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/index.md
+ [1]:(../index.md)

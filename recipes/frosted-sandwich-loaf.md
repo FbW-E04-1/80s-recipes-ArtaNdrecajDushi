@@ -66,4 +66,4 @@ Use a food processor or meat grinder to process the ham and bologna.
 
  Go back to the main page by clicking [here][1].
 
- [1]: http://localhost:3333//home/user/80s-recipes-ArtaNdrecajDushi/index.md
+ [1]:(../index.md)
